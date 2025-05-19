@@ -1,7 +1,4 @@
-NanoGPT Response:
-Alright, let's give your `README.md` some GitHub-flavored Markdown pizazz! Here's a rewritten version with styling, bolding, and emojis supported by GitHub:
 
-```markdown
 # 🛡️ pqwallet – Post-Quantum Wallet Generator (Dilithium5)
 
 Welcome to **pqwallet**, a lightweight, offline-first wallet generator built in **Rust** 🦀 using **Dilithium5**, a cutting-edge post-quantum cryptographic algorithm.
