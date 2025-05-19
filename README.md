@@ -75,6 +75,4 @@ If you're interested in post-quantum cryptography, Rust, or identity systems, fe
 This project is open-source and available under the [**MIT License**](LICENSE).
 
 
-Cost: 0.0011500929908171567
-Input Tokens: 560
-Output Tokens: 984
+
