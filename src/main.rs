@@ -196,7 +196,7 @@ _________                                   _________ _______
 \     \____|  | \(  <_> )  |_> >  ___/|  | \/\     \____/   |  \
  \______  /|__|   \____/|   __/ \___  >__|    \______  /\______|
         \/              |__|        \/               \/
-                #Visit: http://anonymate.online/
+                #Visit: http://purepow.site
     "#);
 
     // Crypto Mining related ASCII art
