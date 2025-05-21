@@ -6,7 +6,7 @@ This prototype generates keys offline, encrypts them with a password, and stores
 
 **Final Thoughts**
 
-Coding in Rust with the assistance of AI is a great way to learn. Rust’s compiler provides detailed and self-explanatory error messages, and when combined with the occasional mistakes from AI-generated code, the debugging process becomes a powerful learning experience.
+Coding in Rust with the assistance of AI is a great way to learn. Rust’s compiler provides detailed and self-explanatory error messages, and when combined with the many mistakes from AI-generated code, the debugging process becomes a powerful learning experience.
 
 In my opinion, strong debugging skills are more important than pure coding ability. For prototyping, the combination of AI and Rust has been the most effective approach I’ve tried so far.
 
